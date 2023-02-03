@@ -1,8 +1,8 @@
 <link href="https://cdn.jsdelivr.net/gh/sunn-us/SUIT/fonts/variable/woff2/SUIT-Variable.css" rel="stylesheet">
-
+(setq markdown-xhtml-header-content
 <style>
     * {font-family: 'SUIT Variable', sans-serif;}
-</style>
+</style>)
 
 # Table of contents
 
